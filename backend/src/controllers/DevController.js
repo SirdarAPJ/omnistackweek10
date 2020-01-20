@@ -56,10 +56,10 @@ module.exports = {
     },
 
     async update() {
-
+        //TODO
     },
 
     async destroy() {
-
+        //TODO
     },
 }
